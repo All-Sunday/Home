@@ -9,3 +9,4 @@
 ![(M9(E$KUYP2MYD3_X5NV1{Q](https://user-images.githubusercontent.com/39648485/118346361-6ece2b00-b56d-11eb-914e-2108c388d2a5.png)
 ![img](https://user-images.githubusercontent.com/39648485/118290094-a0f97180-b508-11eb-9802-1a262bd372fd.png)
 ## ps：如需增加出入口可在issues提出
+       自动打卡脚本传送门：https://github.com/All-Sunday/Automatic-punch
