@@ -1,5 +1,5 @@
-# zzuHome
 ## 郑州大学通行码
+ps：好用，烦请star🤞🤞🤞
 ## 地址：https://txm.zzuspc.top/
 ## 二维码
 ![qrcode_](https://user-images.githubusercontent.com/39648485/118287981-8de5a200-b506-11eb-87fd-3ee65f90edb3.png)
