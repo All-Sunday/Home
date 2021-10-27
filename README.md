@@ -16,7 +16,9 @@ ps：把网址发到微信群，打开后下方无前进后退按钮
 ## 使用说明
 1. 点击右上角区域出现扫一扫
 2. 点击扫一扫，扫描学校通行码（第一次使用可以先用相册的码）
-![KK@@S9JB`06{MFUD$YD{OSH](https://user-images.githubusercontent.com/39648485/139109062-699f93a6-f733-42e6-9552-bd5a2f496854.png)
-![KK01` S2AK_M57}_( 2)R)6](https://user-images.githubusercontent.com/39648485/139109081-4f15851a-ca43-4242-9aa1-771f31dc4495.png)
-## ps：如需增加出入口可在issues提出
+![](https://user-images.githubusercontent.com/39648485/139109062-699f93a6-f733-42e6-9552-bd5a2f496854.png)
+![](https://user-images.githubusercontent.com/39648485/139109081-4f15851a-ca43-4242-9aa1-771f31dc4495.png)
+## ps：如需增加出入口及其他问题反馈可在issues提出
 ## 自动打卡脚本传送门：https://github.com/All-Sunday/Automatic-punch
+## 个人维护，使用不便请见谅，同学们有计算机方面问题（作业、重复操作自动化、爬虫、python之类）可留言
+![81450F5F0FD22032043BA9F93AF8E03F](https://user-images.githubusercontent.com/39648485/139111947-ad4d0d24-cf35-4898-bf60-4db60259e5b5.png)
