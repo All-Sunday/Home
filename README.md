@@ -1,12 +1,21 @@
-## 郑州大学通行码 （自己用的，从2月份稳定运行至今）
+## 郑州大学通行码 （稳定运行）
 ps：好用，烦请star🤞🤞🤞
-## 地址：https://txm.zzuspc.top/
+### 注意：
+- 无任何费用！！！ 请谨慎辨别，不要被骗，更不要给别人账号密码！！！  第一次使用后修改教务系统密码！后续使用输第一次使用时的密码
+- 根据疫情形势及学校规定，会适时关闭！！！
+- 唯一要求：请大家打开github地址，然后右上角star😀😀😀，并在Issues页面star留言处留言学号后6位    （会不定期处理未star用户，为避免出行不便，请及时star）
+### 说明：（一定要看）
+- 最开始只是为了自己和朋友用方便，大家直接输账号密码，后来被朋友的朋友传的太多了，个人时间等原因也没修改密码这方面
+- 但大家不用担心，只是程序自动获取了通行码页面所需的必要信息
+- 而且第一次使用成功后，大家可以修改自己的教务密码！！！！！！！！！！！！！！！！！！！！后续使用输第一次使用时的密码（所以大家不用担心，如果还是有疑虑，请不要使用😥）
+
+## 地址：http://txm.zzuspc.top/
 ## 二维码
 ![qrcode_](https://user-images.githubusercontent.com/39648485/118287981-8de5a200-b506-11eb-87fd-3ee65f90edb3.png)
 ## 使用说明
-	和学校通行码一样，输入学号密码——领取通行码，需要等待几秒
-	点击下方中间空白处，可显示出入口选项，再次点击可隐藏
-![(M9(E$KUYP2MYD3_X5NV1{Q](https://user-images.githubusercontent.com/39648485/118346361-6ece2b00-b56d-11eb-914e-2108c388d2a5.png)
-![img](https://user-images.githubusercontent.com/39648485/118290094-a0f97180-b508-11eb-9802-1a262bd372fd.png)
+1. 点击右上角区域出现扫一扫
+2. 点击扫一扫，扫描学校通行码（第一次使用可以先用相册的码）
+[KK@@S9JB`06{MFUD$YD{OSH](https://user-images.githubusercontent.com/39648485/139109062-699f93a6-f733-42e6-9552-bd5a2f496854.png)
+![KK01` S2AK_M57}_( 2)R)6](https://user-images.githubusercontent.com/39648485/139109081-4f15851a-ca43-4242-9aa1-771f31dc4495.png)
 ## ps：如需增加出入口可在issues提出
 ## 自动打卡脚本传送门：https://github.com/All-Sunday/Automatic-punch
